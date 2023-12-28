@@ -1,19 +1,25 @@
 # fundamentals of data analysis
 23-24: 4359 -- FUNDAMENTALS OF DATA ANALYSIS
 
-This is my project, by Ciaran Moran
+Assessment Repo, by Ciaran Moran
 
 
- - This is a list.
- - One.
- - Two.
- - Three.
- - Four.
+## About
+This repository contains the work that I have created for the varies tasks given.
+The following tasks/questions have been researched and answers provided.
 
- ***
+ 1. The Collatz conjecture.
+ 2. Give an overview of the famous penguins data set.
+ 3. For each of the variables in the penguins data set,3 suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.
+ 4. Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p.
+5. Create an appropriate individual plot for each of the variables in the penguin data set
 
- 1. One
- 2. Two
- 3. Three
- 4. Four.
- 5. Five.
+## Running the code
+1. Install Anaconda - https://www.anaconda.com/download
+2. Install Visual Studio Code - https://code.visualstudio.com/download
+3. Clone repository from Github - https://github.com/cpjm/foda
+4. Open repository in VS Code
+5. In tasks.ipynb > Run All
+
+## Issues
+Nothing to add for now.
